@@ -1,0 +1,6 @@
+Model,cos_sim_pearson,cos_sim_spearman,euclidean_pearson,euclidean_spearman,manhattan_pearson,manhattan_spearman,Topsis Score,Rank
+bge-large-en-v1.5,84.955,84.654,83.291,84.522,82.995,84.207,40.99,5
+ember-v1,86.383,85.81,84.28,85.803,83.976,85.304,44.78,4
+UAE-Large-V1,87.867,86.142,85.99,86.482,85.645,86.21,48.66,3
+sf_model_e5,88.824,86.745,86.588,86.745,86.24,86.415,56.46,2
+gte-large,90.254,88.507,88.149,88.507,87.965,88.212,59.01,1
